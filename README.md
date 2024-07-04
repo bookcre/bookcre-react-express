@@ -1,6 +1,6 @@
 # bookcre-react-express
 
-<h4>2022 성신여대 소프트웨어 경진대회 동상 수상 프로젝트</h4>
+<h4>2022 성신여대 소프트웨어 경진대회 동상 수상 프로젝트 | MERN stack 활용</h4>
 
 <p align="center">
   <img src="https://github.com/s-h-im/golang-practice/assets/100345983/d4dabdce-1384-47cf-9c8e-a163035d475c">
